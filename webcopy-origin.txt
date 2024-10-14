@@ -1,0 +1,247 @@
+Uri: https://cdn.jsdelivr.net/npm/notiflix@2.6.0/dist/notiflix-aio-2.6.0.min.js
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\npm\notiflix@2.6.0\dist\notiflix-aio-2.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://weblinkoficial.com/comments/feed/
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\comments\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://weblinkoficial.com/feed/
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://weblinkoficial.com/tiktok-socio-15/
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\tiktok-socio-15\index.htm
+Content Type: text/html
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\css\frontend.min-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\css\widget-counter.min-1.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\css\widget-heading.min-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\css\widget-image.min-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\js\frontend-modules.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\js\frontend.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.24.4
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/plugins/pro-elements/assets/css/frontend.min.css?ver=3.24.2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\pro-elements\assets\css\frontend.min-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.24.2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\pro-elements\assets\js\elements-handlers.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.24.2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\pro-elements\assets\js\frontend.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.24.2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\plugins\pro-elements\assets\js\webpack-pro.runtime.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400-2.woff2
+Content Type: font/woff2
+
+Uri: https://weblinkoficial.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400-2.woff2
+Content Type: font/woff2
+
+Uri: https://weblinkoficial.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700-2.woff2
+Content Type: font/woff2
+
+Uri: https://weblinkoficial.com/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght-2.woff2
+Content Type: font/woff2
+
+Uri: https://weblinkoficial.com/wp-content/uploads/2024/09/4fa34262-06c6-4f76-8a54-885430ea3851-300x126.png
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\uploads\2024\09\4fa34262-06c6-4f76-8a54-885430ea3851-300x126-2.png
+Content Type: image/png
+
+Uri: https://weblinkoficial.com/wp-content/uploads/2024/09/4fa34262-06c6-4f76-8a54-885430ea3851-768x323.png
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\uploads\2024\09\4fa34262-06c6-4f76-8a54-885430ea3851-768x323-2.png
+Content Type: image/png
+
+Uri: https://weblinkoficial.com/wp-content/uploads/2024/09/4fa34262-06c6-4f76-8a54-885430ea3851.png
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\uploads\2024\09\4fa34262-06c6-4f76-8a54-885430ea3851-2.png
+Content Type: image/png
+
+Uri: https://weblinkoficial.com/wp-content/uploads/elementor/css/global.css?ver=1727733164
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\uploads\elementor\css\global-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/uploads/elementor/css/post-229.css?ver=1727733214
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\uploads\elementor\css\post-229.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-content/uploads/elementor/css/post-8.css?ver=1727733093
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-content\uploads\elementor\css\post-8-2.css
+Content Type: text/css
+
+Uri: https://weblinkoficial.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-includes\js\dist\hooks.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-includes\js\dist\i18n.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-includes\js\jquery\jquery-migrate.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-includes\js\jquery\jquery.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-includes\js\jquery\ui\core.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://weblinkoficial.com/wp-json/
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-json\index-2.htm
+Content Type: application/json
+
+Uri: https://weblinkoficial.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fweblinkoficial.com%2Ftiktok-socio-15%2F
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://weblinkoficial.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fweblinkoficial.com%2Ftiktok-socio-15%2F&format=xml
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://weblinkoficial.com/wp-json/wp/v2/pages/229
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\wp-json\wp\v2\pages\229
+Content Type: application/json
+
+Uri: https://weblinkoficial.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\xmlrpc-2.php
+Content Type: text/xml
+
+b Sites\weblinkoficial.com\wp-json\wp\v2\pages\221
+Content Type: application/json
+
+Uri: https://weblinkoficial.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\weblinkoficial.com\xmlrpc-1.php
+Content Type: text/xml
+
